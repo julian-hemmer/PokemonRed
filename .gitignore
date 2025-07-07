@@ -1,0 +1,30 @@
+# Fichiers binaires
+wolf3d_test
+wolf3d
+!wolf3d/
+
+# Dossiers de build
+/build
+
+# Dossiers spécifiques à certains IDE
+.vscode/
+/.idea/
+/CMakeLists.txt.user
+
+# Codding style and other log files
+*.log
+
+# Fichiers d'éditeur (Vi, Emacs, etc.)
+*~
+*#
+
+# Fichiers criterion
+*.gcda
+*.gcno
+
+# Fichier du connard de Julian
+.gutils_rules
+
+# binaire de tests
+*.gcda
+*.gcno
